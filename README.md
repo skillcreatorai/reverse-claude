@@ -6,7 +6,7 @@
 
 7 modules. 43 patterns. 1,746 lines of actionable intelligence extracted from ~28,000 lines of production source.
 
-[![Install with skills.sh](https://img.shields.io/badge/skills.sh-install-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAydjIwbTAtMjBMNSA5bTctN2w3IDciLz48L3N2Zz4=)](https://skills.sh)
+[![Install with skills.sh](https://img.shields.io/badge/skills.sh-install-black?style=for-the-badge)](https://skills.sh)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-orange?style=for-the-badge)](https://claude.ai/code)
 
@@ -39,7 +39,7 @@ Or use the patterns to **build your own Claude Code-like system.**
 
 **skills.sh** (recommended)
 ```bash
-npx skills.sh add skillcreatorai/reverse-claude
+npx skills add skillcreatorai/reverse-claude
 ```
 
 **Manual**
